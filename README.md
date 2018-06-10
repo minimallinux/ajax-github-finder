@@ -10,6 +10,6 @@ Also serves as a useful local reference to the UIKit framework with (in main nav
 
 Rerences most of the components. :)
 
-All files included just run index.html
+All files included just run index and type in search box.
 
 
