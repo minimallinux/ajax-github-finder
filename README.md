@@ -1,6 +1,8 @@
-#ajax-github-finder
+# #AJAX-GITHUB-FINDER
 
-Use UIKit CSS
+Simple Github user locator using UIKit CSS
+
+## Quick Start
 
 An info app to find github users info, repos, etc.
 
@@ -10,6 +12,21 @@ Also serves as a useful local reference to the UIKit framework with (in main nav
 
 Rerences most of the components. :)
 
-All files included just run index and type in search box.
+All files included just run index.html
 
+## App Info
 
+### Author
+
+P A McGowan
+
+https://webmobapps.com
+https://minimallinux.tk
+
+### Version
+
+1.0.0
+
+### License
+
+This project is licensed under the MIT License
