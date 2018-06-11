@@ -1,4 +1,4 @@
-# #AJAX-GITHUB-FINDER
+#AJAX-GITHUB-FINDER
 
 Simple Github user locator using UIKit CSS
 
@@ -13,6 +13,8 @@ Also serves as a useful local reference to the UIKit framework with (in main nav
 Rerences most of the components. :)
 
 All files included just run index.html
+
+Live demo at https://frosty-heyrovsky-0c530a.netlify.com/
 
 ## App Info
 
