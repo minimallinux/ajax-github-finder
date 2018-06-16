@@ -67,33 +67,3 @@ jQuery(document).ready(function($) {
   });
  });
 
-   
-/* $('#searchUser').on('keyup', function(e){
-    let username = e.target.value;
-    //Make request to Github
-    $.ajax({
-     url:'https://api.github.com/users/'+username,
-     data:{
-       client_id:'7dffae885a9f27c53510',
-       client_secret:'775ead92829a4a000735253835bcad0dfe5eee30'
-     }
- }).done(function(user){
-     $('#profile').html(`
-     <dl class="uk-description-list uk-description-list-divider">
- <dt>$(user.name)</dt>
- <dd>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</dd>
- <dt>Description term</dt>
- <dd>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</dd>
- <dt>Description term</dt>
- <dd>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</dd>
-</dl>
-     `)
-     /*$.ajax({
-       url:'https://api.github.com/users/'+username+'/repos',
-       data:{
-         client_id:'7dffae885a9f27c53510',
-         client_secret:'775ead92829a4a000735253835bcad0dfe5eee30',
-         sort: 'created: asc',
-         per_page: 5
-       }
-     });*/tml 
